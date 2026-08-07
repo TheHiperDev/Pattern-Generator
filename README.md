@@ -1,4 +1,4 @@
-### Pattern
+# Pattern
 
 A simple command-line pattern generator written in C++ 17/;
 (A stupid command-line pattern that only generates a simple fucking pyramid
